@@ -26,7 +26,7 @@ Completed:
         Health Pickup
         Ammo Pickup
         Longer Blueprint Video
-Playthrough Video
+        Playthrough Video
                 
 Playthrough of project that shows the deliverables:
 
