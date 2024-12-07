@@ -1,0 +1,32 @@
+﻿How it works: Once you load the project, click play to begin playing the game.
+
+Omar Soliman:
+Completed:
+        Win level
+        Win Blueprint
+        Playthrough Video
+        ReadMe
+        Bug Fixes
+
+Fin Heaney:
+Completed:
+	First Level
+        VR interactables
+        Teleportation area
+        Pistol ammo
+	Pistol Reload
+	no-teleport area
+        targets/destroyed tracker
+        Longer Blueprint Video
+
+                
+Playthrough of project that shows the deliverables:
+Omar Soliman: https://www.youtube.com/watch?v=yngleSKjmuo&ab_channel=manhen123
+
+Longer video explaining Blueprints: 
+Fin Heaney: https://www.youtube.com/watch?v=-0FlMxuVmjM&ab_channel=manhen123
+
+
+Meetings with group:
+Met on teams at 1pm Tuesday the 19th of November, 2024
+Met on teams at 11am Wednesday the 4th of December, 2024
